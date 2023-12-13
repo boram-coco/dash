@@ -1,7 +1,7 @@
 ---
 title: "에너지사용량 자료 분석"
 author: "김보람"
-format: asciidoc
+format: dashboard
 execute: 
   enabled: true
   cache: false
