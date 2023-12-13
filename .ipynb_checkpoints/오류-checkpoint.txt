@@ -10,3 +10,4 @@ ERROR: In file Energy.qmd
 
 
 -- 자꾸 dashboard오류 있어서 asciidoc로 바꿔서 해봄..
+-- ascidoc로 하니까 아예 안됨. 흠..
